@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RQEPrüfung0511", "RQEPrüfung0511\RQEPrüfung0511.csproj", "{81A36662-3BAF-483D-89F8-C79C07D5B82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A36662-3BAF-483D-89F8-C79C07D5B82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A36662-3BAF-483D-89F8-C79C07D5B82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A36662-3BAF-483D-89F8-C79C07D5B82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A36662-3BAF-483D-89F8-C79C07D5B82E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2081B250-CBCF-4089-9FB7-10C5BA64C9BA}
+	EndGlobalSection
+EndGlobal
